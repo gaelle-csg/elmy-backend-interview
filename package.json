@@ -1,0 +1,26 @@
+{
+  "name": "elmy-backend-interview",
+  "version": "1.0.0",
+  "description": "stand-alone application that collects and aggregates power plant production data",
+  "main": "index.ts",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaelle-csg/elmy-backend-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaelle-csg/elmy-backend-interview/issues"
+  },
+  "homepage": "https://github.com/gaelle-csg/elmy-backend-interview#readme"
+}
