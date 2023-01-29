@@ -1,5 +1,5 @@
 import promptSync from 'prompt-sync';
-import { isMatch, parseISO, format } from 'date-fns'
+import { isMatch, parseISO, format } from 'date-fns';
 
 export const dateFormat: string = 'dd-MM-yyyy';
 const prompt = promptSync();
